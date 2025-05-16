@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9b64dc2-61e7-45d7-9309-6df9fde75c0e)1. Problem Definition
+1. Problem Definition
   Given an array 𝐴[1..𝑛] consisting of 𝑛 positive integers, the task is identifying majority element in the array. Majority element is defined as an element that passes more than n/2. If there is no such an element, output of algorithm should –1.
   There are several algorithms with different theoretical and practical performances for this problem called FindMajority. In the scope of this project, at least seven different algorithms will be implemented, tested, and compared for solve this problem. The methods to be used include brute force, ranking-based approaches, divide and conquer strategy, hashing, Boyer-Moore Voting algorithm, and an additional method selected from the literature or originally developed.
   The aim of the project is to evaluate the performance of these algorithms on various input scenarios (best case, worst case and average case) and to analyze the experimental results obtained by comparing them with the theoretical time and memory complexities.
